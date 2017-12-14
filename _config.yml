@@ -3,7 +3,7 @@ title: AI for Everyone
 email: giyengar <at> gmail <dot> com
 description: >
   In this course, learn from two AI experts all about AI and how it impacts your everyday life and how to profit from it. 
-baseurl: "ai4all" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ai4all.github.io"
 
 # Build settings
