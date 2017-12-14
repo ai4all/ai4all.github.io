@@ -1,4 +1,15 @@
-theme: jekyll-theme-cayman
+# Welcome to Jekyll!
+title: AI for Everyone 
+email: giyengar <at> gmail <dot> com
+description: >
+  In this course, learn from two AI experts all about AI and how it impacts your everyday life and how to profit from it. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:4000"
 
-title: [AI for Everyone]
-descripton: [Website for Course notes of AI for Everyone]
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
