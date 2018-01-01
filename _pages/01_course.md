@@ -9,5 +9,5 @@ Course content
 * Supervised learning (2 sessions) 
 * Unsupervised learning (1 session) 
 * Deep learning (3 sessions) 
-*Reinforcement learning (1 session)
+* Reinforcement learning (1 session)
 
